@@ -33,8 +33,6 @@ This dataset encompasses various features related to customer shopping preferenc
 
 - **Color Preferences**: Find out the most popular colors for purchased items.
 
-- **Item Sizes Analysis**: Identify the most commonly purchased item sizes.
-
 - **Promo Code Effectiveness**: Analyze whether the use of promo codes correlates with higher purchase amounts.
 
 - **Seasonal Trends**: Determine if there are any seasonal trends in purchase amounts or customer behaviors.
